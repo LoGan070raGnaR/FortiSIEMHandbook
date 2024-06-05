@@ -9,7 +9,7 @@
 	- and each dashboard will have multiple widgets, and each widgets will display the data in different chart types
 - in the gear icon you can modify the content or settings of the widget
 
-![[FortiSIEM U/Section 03 - Dashboards, Business Services and Reports/001.png]]
+![[001.png]]
 
 - you can create your own dashboard in the Dashboard folder by selecting `New` in the far left side inside the folder
 - then click on `+` inside newly created dashboard, name the widget and select the `Type`, default will be `Widget Dashboard`
